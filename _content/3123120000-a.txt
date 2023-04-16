@@ -1,0 +1,37 @@
+.. note::
+   Each section opens with a sentence about using the page example. In some cases there is a second sentence.
+
+|ET1|
+
+.. image:: _static/3123120000-a.png
+   :scale: 90 %
+   :align: center
+
+|ET2|
+
+.. image:: _static/3123120000-b.png
+   :scale: 90 %
+   :align: center
+
+|ET3|
+
+.. image:: _static/3123120000-c.png
+   :scale: 90 %
+   :align: center
+
+.. seealso::
+   * `my link 144`_
+   * `my link 244`_
+   * `my link 344`_
+   * `my link 444`_
+
+.. tip::
+   Advice specific to the page.
+
+.. warning::
+   Alert about techniques that will cause problems and errors.
+
+.. include:: substitution.txt
+
+
+
