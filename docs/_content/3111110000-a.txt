@@ -156,11 +156,6 @@ YouTube-1
 
 |br|
 
-YouTube-2
-^^^^^^^^^
-
-.. youtube:: https://www.youtube.com/watch?v=vioCbTo3C-4
-
 
 Tabs
 ^^^^
