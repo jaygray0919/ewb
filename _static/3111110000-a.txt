@@ -141,8 +141,8 @@ Rubric
    2.3 Use a Validator!
 
 
-YouTube
-^^^^^^^
+YouTube-1
+^^^^^^^^^
 
 .. admonition:: YouTube
 
@@ -155,6 +155,7 @@ YouTube
    frameborder="0" allowfullscreen></iframe>
 
 |br|
+
 
 Tabs
 ^^^^
@@ -213,4 +214,3 @@ Tabs
 
 
 .. include:: substitution.txt
-
