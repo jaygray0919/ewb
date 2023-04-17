@@ -141,8 +141,8 @@ Rubric
    2.3 Use a Validator!
 
 
-YouTube
-^^^^^^^
+YouTube-1
+^^^^^^^^^
 
 .. admonition:: YouTube
 
@@ -155,6 +155,12 @@ YouTube
    frameborder="0" allowfullscreen></iframe>
 
 |br|
+
+YouTube-2
+^^^^^^^^^
+
+.. youtube:: https://www.youtube.com/watch?v=vioCbTo3C-4
+
 
 Tabs
 ^^^^
@@ -211,6 +217,60 @@ Tabs
         voluptatibus maiores alias consequatur aut perferendis doloribus
         asperiores repellat.
 
+Mermaid
+^^^^^^^
+
+.. mermaid::
+
+   sequenceDiagram
+      participant Alice
+      participant Bob
+      Alice->John: Hello John, how are you?
+      loop Healthcheck
+          John->John: Fight against hypochondria
+      end
+      Note right of John: Rational thoughts <br/>prevail...
+      John-->Alice: Great!
+      John->Bob: How about you?
+      Bob-->John: Jolly good!
+
+
+Collapse
+^^^^^^^^
+
+.. collapse:: Details
+
+   Something small enough to escape casual notice.
+
+
+.. collapse:: A Different Label
+   :class: custom-summary
+   :name: summary0
+
+   Something else that might escape notice.
+
+.. collapse:: A long code block
+
+   .. code-block:: python
+
+      print("Not really")
+
+
+
+remote image (https)
+^^^^^^^^^^^^^^^^^^^^
+
+.. thumbnail:: https://upload.wikimedia.org/wikipedia/meta/0/08/Wikipedia-logo-v2_1x.png
+   :download: false
+
+remote image (download https)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* The image should be downloaded (available from localhost)
+
+.. thumbnail:: https://upload.wikimedia.org/wikipedia/meta/0/08/Wikipedia-logo-v2_1x.png
+   :download: true
+
+
 
 .. include:: substitution.txt
-

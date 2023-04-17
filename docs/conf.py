@@ -26,6 +26,11 @@ CURDIR = os.path.abspath(os.path.dirname(__file__))
 extensions = [
     'sphinxcontrib.bibtex',
     'sphinxcontrib.contentui',
+    'sphinxcontrib.excel',
+    'sphinxcontrib.images',
+    'sphinxcontrib.mermaid',
+    'sphinxcontrib.youtube',
+    'sphinx_toolbox.collapse',
     'sphinx.ext.graphviz',
     ]
 
