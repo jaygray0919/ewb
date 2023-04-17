@@ -1,6 +1,5 @@
 sphinxcontrib-bibtex
 sphinxcontrib-contentui
-sphinxcontrib-excel
 sphinxcontrib-images
 sphinxcontrib-mermaid
 sphinxcontrib-youtube
