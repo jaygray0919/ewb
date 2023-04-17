@@ -212,25 +212,5 @@ Tabs
         voluptatibus maiores alias consequatur aut perferendis doloribus
         asperiores repellat.
 
-Collapse
-^^^^^^^^
-
-.. collapse:: Details
-
-   Something small enough to escape casual notice.
-
-
-.. collapse:: A Different Label
-   :class: custom-summary
-   :name: summary0
-
-   Something else that might escape notice.
-
-.. collapse:: A long code block
-
-   .. code-block:: python
-
-      print("Not really")
-
 
 .. include:: substitution.txt
