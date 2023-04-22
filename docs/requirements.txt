@@ -1,9 +1,9 @@
 sphinx-rtd-theme==1.1.1
 sphinxcontrib-bibtex
-sphinx-ext-graphviz==0.6
-sphinxcontrib.contentui==0.2.5
-sphinx_tabs.tabs==3.4.1-1
-sphinx_copybutton==0.5.2 
-sphinx_collapse==0.1.2
-sphinx_preview==0.1.1
-sphinxcontrib.needs==0.7.9
+sphinx-ext-graphviz
+sphinxcontrib.contentui
+sphinx_tabs.tabs
+sphinx_copybutton
+sphinx_collapse
+sphinx_preview
+sphinxcontrib.needs
