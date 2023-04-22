@@ -56,7 +56,10 @@ bibtex_bibfiles = [
     'reference-8-article-technology.bib',
 ]
 
-# -- More general configuration ------------------------------------------------------------
+# -- GraphViz configuration ----------------------------------
+graphviz_output_format = 'svg'
+
+# -- More general configuration ------------------------------
 
 # Add any paths that contain templates here, relative to this directory.
 #templates_path = ['_templates']
