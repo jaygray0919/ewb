@@ -27,7 +27,30 @@ extensions = [
     'sphinxcontrib.bibtex',
     'sphinxcontrib.contentui',
     'sphinx.ext.graphviz',
+    'sphinx_tabs.tabs',
+    'sphinx_copybutton',
+    'sphinx_collapse',
+    'sphinx_preview',
+    'sphinxcontrib.needs',
     ]
+
+# sphinx_preview
+preview_config = {
+    "selector": "div.body a",
+    "not_selector": "div.needs_head a, h1 a, h2 a, h3 a, h4 a",
+    # "selector": "div.body a.reference.internal",
+    "set_icon": True,
+    "icon_only": True,
+    "icon_click": False,
+    "width": 500,
+    "height": 400,
+    "offset": {
+        "left": 30,
+        "top": 30
+    },
+    "icon": "  👁",
+    "timeout": 100,
+}
 
 bibtex_bibfiles = [
     'reference-8-article-technology.bib',
@@ -71,7 +94,9 @@ today_fmt = '%d %B %Y'
 # List of patterns, relative to source directory, that match files and directories to ignore when looking for source files.
 
 exclude_patterns = [
+   '__notes'
    '_build',
+   '_ext',
    'link-generic.rst',
 ]
 
@@ -116,7 +141,7 @@ html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
-    # Toc options
+# Toc options
     'collapse_navigation': True,
     'sticky_navigation': True,
     'navigation_depth': 3,
@@ -142,7 +167,7 @@ html_short_title = 'EWB Documentation'
 
 # The name of an image file (within the static path) to use as favicon of the docs.
 # This file should be a Windows icon file (.ico) being 16x16 or 32x32 pixels large.
-#html_favicon = "USDA_ARS.png"
+#html_favicon = "Ontomatica.png"
 
 # Add any paths that contain custom static files (such as style sheets) here, relative to this directory.
 # They are copied after the built-in static files, so a file named "default.css" will overwrite the built-in "default.css".

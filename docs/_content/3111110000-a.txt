@@ -157,8 +157,9 @@ YouTube-1
 |br|
 
 
-Tabs
-^^^^
+Tabs contentui
+^^^^^^^^^^^^^^
+
 .. toggle-header::
     :header: Example 1 **Show/Hide Code**
 
@@ -212,5 +213,59 @@ Tabs
         voluptatibus maiores alias consequatur aut perferendis doloribus
         asperiores repellat.
 
+
+Tabs sphinx_tabs
+^^^^^^^^^^^^^^^^
+
+.. tabs::
+
+   .. tab:: Stars
+
+      .. tabs::
+
+         .. tab:: The Sun
+
+            The closest star to us.
+
+         .. tab:: Proxima Centauri
+
+            The second closest star to us.
+
+         .. tab:: Polaris
+
+            The North Star.
+
+   .. tab:: Moons
+
+      .. tabs::
+
+         .. tab:: The Moon
+
+            Orbits the Earth
+
+         .. tab:: Titan
+
+            Orbits Jupiter
+
+
+sphinx_collapse
+^^^^^^^^^^^^^^^
+
+.. collapse:: Details
+
+    Something small enough to escape casual notice.
+
+
+.. collapse:: A Different Label
+    :class: custom-summary
+    :name: summary0
+
+    Something else that might escape notice.
+
+.. collapse:: A long code block
+
+    .. code-block:: python
+
+        print("Not really")
 
 .. include:: substitution.txt

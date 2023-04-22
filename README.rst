@@ -28,36 +28,12 @@ the Docs site`_.
 
 .. _the Read the Docs site: https://docs.readthedocs.io/
 
-Get in touch
-------------
+License
+-------
 
-You can find information about getting in touch with Read the Docs at our `Contribution page <https://docs.readthedocs.io/en/latest/contribute.html#get-in-touch>`_.
+`MIT`_ © 2010 Read the Docs, Inc. & contributors
 
-Contributing
-------------
-
-You can find information about contributing to Read the Docs at our `Contribution page <https://docs.readthedocs.io/en/latest/contribute.html>`_.
-
-Quickstart for GitHub-Hosted Projects
--------------------------------------
-
-By the end of this quickstart, you will have a new project automatically updated
-when you push to GitHub.
-
-#. Create an account on `Read the Docs`_.  You will get an email verifying your
-   email address which you should accept within 7 days.
-
-#. Log in and click on "Import a Project".
-
-#. Click "Connect to GitHub" in order to connect your account's repositories to GitHub.
-
-#. When prompted on GitHub, give access to your account.
-
-#. Click "Import a Repository" and select any desired repository.
-
-#. Change any information if desired and click "Next".
-
-#. All done.  Commit away and your project will auto-update.
+.. _MIT: LICENSE
 
 
 .. |build-status| image:: https://circleci.com/gh/readthedocs/readthedocs.org.svg?style=svg
@@ -73,10 +49,3 @@ when you push to GitHub.
     :alt: Test coverage
     :scale: 100%
     :target: https://codecov.io/gh/readthedocs/readthedocs.org
-
-License
--------
-
-`MIT`_ © 2010 Read the Docs, Inc. & contributors
-
-.. _MIT: LICENSE
