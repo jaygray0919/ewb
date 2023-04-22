@@ -1,7 +1,7 @@
 sphinx-rtd-theme
 sphinxcontrib-bibtex
 sphinxcontrib-contentui
-sphinx_tabs.tabs
+sphinx-tabs
 sphinx-copybutton
 sphinx_collapse
 sphinx-preview
