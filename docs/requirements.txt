@@ -1,5 +1,5 @@
 sphinx-rtd-theme==1.1.1
-sphinxcontrib-bibtex==2.5.1a0
+sphinxcontrib-bibtex
 sphinx-ext-graphviz==0.6
 sphinxcontrib.contentui==0.2.5
 sphinx_tabs.tabs==3.4.1-1
