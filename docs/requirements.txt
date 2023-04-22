@@ -1,6 +1,5 @@
 sphinx-rtd-theme
 sphinxcontrib-bibtex
-sphinx.ext.graphviz==1.0
 sphinxcontrib-contentui
 sphinx_tabs.tabs
 sphinx-copybutton
