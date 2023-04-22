@@ -5,4 +5,3 @@ sphinx-tabs
 sphinx-copybutton
 sphinx_collapse
 sphinx-preview
-sphinxcontrib-needs

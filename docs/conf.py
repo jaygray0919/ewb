@@ -31,7 +31,6 @@ extensions = [
     'sphinx_copybutton',
     'sphinx_collapse',
     'sphinx_preview',
-    'sphinxcontrib.needs',
     ]
 
 # sphinx_preview
