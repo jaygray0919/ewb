@@ -1,22 +1,28 @@
 .. note::
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
-|ET1|
-
 .. thumbnail:: _static/3111110000-a.png
-   :width: 30%
+   :title: Explanation text for image 1
+   :show_caption: True
+   :width: 40%
    :group: group1
 
 .. thumbnail:: _static/3111110000-b.png
-   :width: 30%
+   :title: Explanation text for image 2
+   :show_caption: True
+   :width: 40%
    :group: group1
 
 .. thumbnail:: _static/3111110000-c.png
-   :width: 30%
+   :title: Explanation text for image 3
+   :show_caption: True
+   :width: 40%
    :group: group1
 
 .. thumbnail:: _static/3111110000-a.png
-   :width: 30%
+   :title: Explanation text for image 4
+   :show_caption: True
+   :width: 40%
    :group: group1
 
 
