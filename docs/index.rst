@@ -20,8 +20,6 @@ Excel Work Book Documentation
    :align: left
    :width: 10%
 
-|br|
-
 .. sidebar:: Excel Resources
 
    `Excel 1 <https://example.com>`_

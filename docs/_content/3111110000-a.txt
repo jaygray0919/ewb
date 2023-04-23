@@ -15,9 +15,17 @@
    :class: framed
 
    * - .. thumbnail:: _static/3111110000-a.png
+          :width: 10%
+          :title: Title A
      - .. thumbnail:: _static/3111110000-b.png
+          :width: 10%
+          :title: Title B
    * - .. thumbnail:: _static/3111110000-c.png
+          :width: 10%
+          :title: Title C
      - .. thumbnail:: _static/3111110000-a.png
+          :width: 10%
+          :title: Title D
 
 
 .. tip::
