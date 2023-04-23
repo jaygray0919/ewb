@@ -1,6 +1,9 @@
 .. note::
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
+List Table 1
+^^^^^^^^^^^^
+
 .. list-table:: EWB Tabs _images
    :widths: 50 50
 
@@ -10,7 +13,10 @@
      - .. image:: _images/3111110000-a.png
 
 
-.. list-table:: EWB Tabs _static + thumbnail
+List Table 2
+^^^^^^^^^^^^
+
+.. list-table:: EWB Tabs _static + thumbnail (fails)
    :widths: 50 50
    :class: framed
 
@@ -25,7 +31,30 @@
           :title: Title C
      - .. thumbnail:: _static/3111110000-a.png
           :width: 10%
-          :title: Title D
+          :title: Title A
+
+Standard Thumbnail
+^^^^^^^^^^^^^^^^^^
+
+.. thumbnail:: _static/3111110000-a.png
+   :width: 40%
+   :title: Title A
+   :class: framed
+
+.. thumbnail:: _static/3111110000-b.png
+   :width: 40%
+   :title: Title B
+   :class: framed
+
+.. thumbnail:: _static/3111110000-c.png
+   :width: 40%
+   :title: Title C
+   :class: framed
+
+.. thumbnail:: _static/3111110000-a.png
+   :width: 40%
+   :title: Title A
+   :class: framed
 
 
 .. tip::
