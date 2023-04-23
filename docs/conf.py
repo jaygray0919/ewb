@@ -39,7 +39,7 @@ extensions = [
 #sphinxcontrib.images
 images_config = {
     "override_image_directive": True,
-    "default_image_width": "60%",
+#    "default_image_width": "60%",
 }
 
 # sphinx_preview
