@@ -21,58 +21,93 @@ List Table 2
    :class: framed
 
    * - .. thumbnail:: _static/3111110000-a.png
-          :width: 30%
+          :width: 40%
           :title: Title A
      - .. thumbnail:: _static/3111110000-b.png
-          :width: 30%
+          :width: 40%
           :title: Title B
    * - .. thumbnail:: _static/3111110000-c.png
-          :width: 30%
+          :width: 40%
           :title: Title C
      - .. thumbnail:: _static/3111110000-a.png
-          :width: 30%
+          :width: 40%
           :title: Title A
+
 
 Standard Thumbnail
 ^^^^^^^^^^^^^^^^^^
 
+.. thumbnail:: _static/3111110000-a.png
+   :title: Title A
+   :width: 60%
+   :class: framed
+   :align: left
+
+* This is description A
+
+
+.. thumbnail:: _static/3111110000-b.png
+   :title: Title B
+   :width: 60%
+   :class: framed
+   :align: center
+
+* This is description B
+
+
+.. thumbnail:: _static/3111110000-c.png
+   :title: Title C
+   :width: 60%
+   :class: framed
+   :align: right
+
+* This is description C
+
+
+.. thumbnail:: _static/3111110000-a.png
+   :title: Title A
+   :width: 60%
+   :class: framed
+   :align: center
+
+* This is description A
+
+
+Standard Thumbnail clearfix+align
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-a.png
       :title: Title A
+      :width: 60%
       :class: framed
       :align: left
 
-      This is description A
-   
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-b.png
       :title: Title B
+      :width: 60%
       :class: framed
       :align: center
 
-      This is description B
-   
-   
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-c.png
       :title: Title C
+      :width: 60%
       :class: framed
       :align: right
 
-      This is description C
-   
-   
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-a.png
       :title: Title A
+      :width: 60%
       :class: framed
       :align: center
 
-      This is description A
 
 .. tip::
    * Advice specific to the page.
