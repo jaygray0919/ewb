@@ -18,12 +18,11 @@ List Table and ``thumbnail``
 
 .. list-table:: EWB Tabs
    :stub-columns: 1
-   :align: left
 
-   * - Far far away, behind the word mountains, there live the blind texts.
+   * - Far far away, behind the word mountains,|br|there live the blind texts.
      - .. thumbnail:: _static/3111110000-a.png
           :width: 50%
-   * - They live at the coast of the Semantics, a large language ocean.
+   * - They live at the coast of the Semantics,|br|a large language ocean.
      - .. thumbnail:: _static/3111110000-b.png
           :width: 50%
    * - A small river named Duden supplies the necessary regelialia.
@@ -306,24 +305,6 @@ sphinx-collapse
     .. code-block:: python
 
         print("Not really")
-
-
-sphinx-preview
-^^^^^^^^^^^^^^
-
-   * partial success
-   * preview browser tabs with sphinx instance
-   * link preview fails
-   * revisit example
-
-
-sphinxcontrib-images
-^^^^^^^^^^^^^^^^^^^^
-
-.. thumbnail:: https://upload.wikimedia.org/wikipedia/meta/0/08/Wikipedia-logo-v2_1x.png
-   :download: false
-   :width: 10%
-   :alt: wikipedia logo
 
 
 .. include:: substitution.txt
