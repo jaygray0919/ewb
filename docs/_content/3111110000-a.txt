@@ -1,20 +1,8 @@
 .. note::
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
-List Table 1
-^^^^^^^^^^^^
-
-.. list-table:: EWB Tabs ``image``
-   :widths: 50 50
-
-   * - .. image:: _static/3111110000-a.png
-     - .. image:: _static/3111110000-b.png
-   * - .. image:: _static/3111110000-c.png
-     - .. image:: _static/3111110000-a.png
-
-
-List Table 2
-^^^^^^^^^^^^
+List Table
+^^^^^^^^^^
 
 .. list-table:: EWB Tabs ``thumbnail``
    :stub-columns: 1
@@ -30,37 +18,8 @@ List Table 2
           :width: 40%
 
 
-Standard Thumbnail
-^^^^^^^^^^^^^^^^^^
-
-.. describe:: Image A
-
-.. thumbnail:: _static/3111110000-a.png
-   :width: 60%
-   :class: framed
-   :align: left
-
-|br|
-
-.. describe:: Image B
-
-.. thumbnail:: _static/3111110000-b.png
-   :width: 60%
-   :class: framed
-   :align: center
-
-|br|
-
-.. describe:: Image C
-
-.. thumbnail:: _static/3111110000-c.png
-   :width: 60%
-   :class: framed
-   :align: right
-
-
-Standard Thumbnail clearfix + align
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Standard Thumbnail ``clearfix + align``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: clearfix
 
