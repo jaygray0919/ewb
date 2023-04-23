@@ -283,6 +283,7 @@ sphinxcontrib-images
 
 .. thumbnail:: https://upload.wikimedia.org/wikipedia/meta/0/08/Wikipedia-logo-v2_1x.png
    :download: false
+   :width: 50%
    :alt: wikipedia logo
 
 
