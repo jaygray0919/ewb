@@ -37,37 +37,33 @@ List Table 2
 Standard Thumbnail
 ^^^^^^^^^^^^^^^^^^
 
-* This is description A
+.. describe:: Image A
 
 .. thumbnail:: _static/3111110000-a.png
-   :title: Title A
    :width: 60%
    :class: framed
    :align: left
 
 
-* This is description B
+.. describe:: Image B
 
 .. thumbnail:: _static/3111110000-b.png
-   :title: Title B
    :width: 60%
    :class: framed
    :align: center
 
 
-* This is description C
+.. describe:: Image C
 
 .. thumbnail:: _static/3111110000-c.png
-   :title: Title C
    :width: 60%
    :class: framed
    :align: right
 
 
-* This is description A
+.. describe:: Image A
 
 .. thumbnail:: _static/3111110000-a.png
-   :title: Title A
    :width: 60%
    :class: framed
    :align: center
@@ -79,7 +75,6 @@ Standard Thumbnail clearfix + align
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-a.png
-      :title: Title A
       :width: 60%
       :class: framed
       :align: left
@@ -88,7 +83,6 @@ Standard Thumbnail clearfix + align
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-b.png
-      :title: Title B
       :width: 60%
       :class: framed
       :align: center
@@ -97,7 +91,6 @@ Standard Thumbnail clearfix + align
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-c.png
-      :title: Title C
       :width: 60%
       :class: framed
       :align: right
@@ -106,11 +99,12 @@ Standard Thumbnail clearfix + align
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-a.png
-      :title: Title A
       :width: 60%
       :class: framed
       :align: center
 
+|br|
+|br|
 
 .. tip::
    * Advice specific to the page.
@@ -244,7 +238,6 @@ YouTube-iFrame
    frameborder="0" allowfullscreen></iframe>
 
 |br|
-
 
 Tabs contentui
 ^^^^^^^^^^^^^^
