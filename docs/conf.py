@@ -36,6 +36,11 @@ extensions = [
     'sphinx_preview',
     ]
 
+#sphinxcontrib.images
+images_config = {
+    "override_image_directive": True,
+}
+
 # sphinx_preview
 preview_config = {
     "selector": "div.body a",
@@ -99,7 +104,8 @@ today_fmt = '%d %B %Y'
 # List of patterns, relative to source directory, that match files and directories to ignore when looking for source files.
 
 exclude_patterns = [
-   '__notes'
+   '__notes',
+   '_images',
    '_build',
    '_ext',
    'link-generic.rst',
