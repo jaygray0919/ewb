@@ -11,16 +11,16 @@
 
 |ET2|
 
-.. image:: _static/3111110000-b.png
-   :scale: 40%
+.. thumbnail:: _static/3111110000-b.png
+   :width: 50%
    :align: center
 
 |br|
 
 |ET3|
 
-.. image:: _static/3111110000-c.png
-   :scale: 50 %
+.. thumbnail:: _static/3111110000-c.png
+   :scale: 50%
    :align: center
 
 |br|
@@ -283,7 +283,7 @@ sphinxcontrib-images
 
 .. thumbnail:: https://upload.wikimedia.org/wikipedia/meta/0/08/Wikipedia-logo-v2_1x.png
    :download: false
-   :width: 20%
+   :width: 10%
    :alt: wikipedia logo
 
 
