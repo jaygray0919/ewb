@@ -5,28 +5,24 @@
    :title: Explanation text for image 1
    :show_caption: True
    :width: 40%
-   :align: left
    :group: group1
 
 .. thumbnail:: _static/3111110000-b.png
    :title: Explanation text for image 2
    :show_caption: True
    :width: 40%
-   :align: right
    :group: group1
 
 .. thumbnail:: _static/3111110000-c.png
    :title: Explanation text for image 3
    :show_caption: True
    :width: 40%
-   :align: left
    :group: group1
 
 .. thumbnail:: _static/3111110000-a.png
    :title: Explanation text for image 4
    :show_caption: True
    :width: 40%
-   :align: right
    :group: group1
 
 

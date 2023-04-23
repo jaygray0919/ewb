@@ -1,8 +1,7 @@
 sphinx==6.0
-sphinx_rtd_theme==1.2.0
+sphinx-rtd-theme==1.2.0rc4
 sphinxcontrib-bibtex
 sphinxcontrib-contentui
-sphinxcontrib-jquery==4.1
 sphinxcontrib-images==0.9.4
 sphinx-tabs
 sphinx-copybutton
