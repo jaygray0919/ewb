@@ -1,7 +1,7 @@
 
 .. image:: _static/onto-logo-text-blue-w325-h60.svg
    :align: left
-   :width: 50%
+   :width: 30%
    :alt: Ontomatica logo
 
 |br|
@@ -18,7 +18,7 @@ Excel Work Book Documentation
 
 .. image:: _static/docs-latest.svg
    :align: left
-   :width: 20%
+   :width: 05%
 
 
 .. sidebar:: Excel Resources
@@ -88,7 +88,7 @@ Copyright 2023 Ontomatica LLC. This work is licensed under a `Creative Commons A
 
 .. image:: _static/cc-icon.png
    :align: left
-   :width: 20%
+   :width: 05%
    :alt: Creative Commons License
 
 
