@@ -14,11 +14,11 @@ Excel Work Book Documentation
 :Project: `Excel Work Book Documentation <https://example.com/index.html>`_
 :Author: `Jay Gray <https://example.com/index.html>`_
 :Organization: `Ontomatica <https://dailyfood.io>`_
-:Date: 13 April 2023
+:Date: 23 April 2023
 
 .. image:: _static/docs-latest.svg
    :align: left
-   :width: 8%
+   :width: 6%
 
 
 .. toctree::
@@ -83,7 +83,7 @@ Copyright 2023 Ontomatica LLC. This work is licensed under a `Creative Commons A
 
 .. image:: _static/cc-icon.png
    :align: left
-   :width: 10%
+   :width: 6%
    :alt: Creative Commons License
 
 
