@@ -29,7 +29,6 @@ extensions = [
     'sphinxcontrib.bibtex',
     'sphinxcontrib.contentui',
     'sphinxcontrib.images',
-    'sphinxcontrib.needs',
     'sphinx.ext.graphviz',
     'sphinx_tabs.tabs',
     'sphinx_copybutton',

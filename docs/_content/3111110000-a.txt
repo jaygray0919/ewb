@@ -2,12 +2,6 @@
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
 
-Needs Examples
-^^^^^^^^^^^^^^
-
-Using `Sphinx-Needs <https://sphinxcontrib-needs.readthedocs.io/en/latest/>`_.
-
-
 List Table and ``thumbnail``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
