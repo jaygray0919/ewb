@@ -7,3 +7,4 @@ sphinx-tabs
 sphinx-copybutton
 sphinx_collapse
 sphinx-preview
+sphinxcontrib-images==0.9.4

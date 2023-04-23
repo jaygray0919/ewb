@@ -34,6 +34,11 @@ extensions = [
     'sphinx_preview',
     ]
 
+# sphinxcontrib.images
+images_config = {
+    "override_image_directive": False,
+}
+
 # sphinx_preview
 preview_config = {
     "selector": "div.body a",
