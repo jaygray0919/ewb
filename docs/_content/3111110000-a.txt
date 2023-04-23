@@ -16,45 +16,42 @@ List Table 1
 List Table 2
 ^^^^^^^^^^^^
 
-.. list-table:: EWB Tabs _static + thumbnail (fails)
+.. list-table:: EWB Tabs _static + thumbnail
    :widths: 50 50
    :class: framed
 
    * - .. thumbnail:: _static/3111110000-a.png
-          :width: 10%
+          :width: 30%
           :title: Title A
      - .. thumbnail:: _static/3111110000-b.png
-          :width: 10%
+          :width: 30%
           :title: Title B
    * - .. thumbnail:: _static/3111110000-c.png
-          :width: 10%
+          :width: 30%
           :title: Title C
      - .. thumbnail:: _static/3111110000-a.png
-          :width: 10%
+          :width: 30%
           :title: Title A
 
 Standard Thumbnail
 ^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: _static/3111110000-a.png
-   :width: 40%
    :title: Title A
    :class: framed
-
+|br|
 .. thumbnail:: _static/3111110000-b.png
-   :width: 40%
    :title: Title B
    :class: framed
-
+|br|
 .. thumbnail:: _static/3111110000-c.png
-   :width: 40%
    :title: Title C
    :class: framed
-
+|br|
 .. thumbnail:: _static/3111110000-a.png
-   :width: 40%
    :title: Title A
    :class: framed
+|br|
 
 
 .. tip::
@@ -69,6 +66,7 @@ Standard Thumbnail
    * `my link 301`_
    * `my link 401`_
 
+
 Directive |emd| Describe
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -79,6 +77,7 @@ Directive |emd| Describe
    Definition-2 of controlled vocabulary.
 
    **X** :class:`usedToMake` **Y**
+
 
 Two |end| column list
 ^^^^^^^^^^^^^^^^^^^^^
