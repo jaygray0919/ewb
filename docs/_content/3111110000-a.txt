@@ -20,18 +20,18 @@ List Table 2
    :widths: 50 50
    :class: framed
 
+   * - Row 1, Column A
+     - Row 1, Column B
    * - .. thumbnail:: _static/3111110000-a.png
           :width: 40%
-          :title: Title A
      - .. thumbnail:: _static/3111110000-b.png
           :width: 40%
-          :title: Title B
+   * - Row 3, Column A
+     - Row 3, Column B
    * - .. thumbnail:: _static/3111110000-c.png
           :width: 40%
-          :title: Title C
      - .. thumbnail:: _static/3111110000-a.png
           :width: 40%
-          :title: Title A
 
 
 Standard Thumbnail
@@ -62,45 +62,36 @@ Standard Thumbnail
    :class: framed
    :align: right
 
-|br|
-
-.. describe:: Image A
-
-.. thumbnail:: _static/3111110000-a.png
-   :width: 60%
-   :class: framed
-   :align: center
-
 
 Standard Thumbnail clearfix + align
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: clearfix
+
+   .. describe:: Image A
+
    .. thumbnail:: _static/3111110000-a.png
       :width: 60%
       :class: framed
       :align: left
 
-
 .. container:: clearfix
+
+   .. describe:: Image B
+
    .. thumbnail:: _static/3111110000-b.png
       :width: 60%
       :class: framed
       :align: center
 
-
 .. container:: clearfix
+
+   .. describe:: Image C
+
    .. thumbnail:: _static/3111110000-c.png
       :width: 60%
       :class: framed
       :align: right
-
-
-.. container:: clearfix
-   .. thumbnail:: _static/3111110000-a.png
-      :width: 60%
-      :class: framed
-      :align: center
 
 |br|
 |br|
