@@ -2,8 +2,8 @@
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
 
-Needs Example
-^^^^^^^^^^^^^
+Sphinx-Needs (fails)
+^^^^^^^^^^^^^^^^^^^^
 
 Using `Sphinx-Needs <https://sphinxcontrib-needs.readthedocs.io/en/latest/>`_.
 
@@ -19,13 +19,13 @@ List Table and ``thumbnail``
 .. list-table:: EWB Tabs
    :stub-columns: 1
 
-   * - stub col row 1A, stub col row 1B, stub col row 1C
+   * - Far far away, behind the word mountains, there live the blind texts.
      - .. thumbnail:: _static/3111110000-a.png
           :width: 40%
-   * - stub col row 2
+   * - Separated they live at the coast of the Semantics, a large language ocean.
      - .. thumbnail:: _static/3111110000-b.png
           :width: 40%
-   * - stub col row 3
+   * - A small river named Duden supplies it with the necessary regelialia.
      - .. thumbnail:: _static/3111110000-c.png
           :width: 40%
 
