@@ -17,20 +17,16 @@ List Table 2
 ^^^^^^^^^^^^
 
 .. list-table:: EWB Tabs ``thumbnail``
-   :widths: 50 50
-   :class: framed
+   :stub-columns: 1
 
-   * - Row 1, Column A
-     - Row 1, Column B
-   * - .. thumbnail:: _static/3111110000-a.png
+   * - stub col row 1
+     - .. thumbnail:: _static/3111110000-a.png
           :width: 40%
+   * - stub col row 2
      - .. thumbnail:: _static/3111110000-b.png
           :width: 40%
-   * - Row 3, Column A
-     - Row 3, Column B
-   * - .. thumbnail:: _static/3111110000-c.png
-          :width: 40%
-     - .. thumbnail:: _static/3111110000-a.png
+   * - stub col row 3
+     - .. thumbnail:: _static/3111110000-c.png
           :width: 40%
 
 
@@ -70,30 +66,29 @@ Standard Thumbnail clearfix + align
 
    .. describe:: Image A
 
-   .. thumbnail:: _static/3111110000-a.png
-      :width: 60%
-      :class: framed
-      :align: left
+      .. thumbnail:: _static/3111110000-a.png
+         :width: 60%
+         :class: framed
+         :align: left
 
 .. container:: clearfix
 
    .. describe:: Image B
 
-   .. thumbnail:: _static/3111110000-b.png
-      :width: 60%
-      :class: framed
-      :align: center
+      .. thumbnail:: _static/3111110000-b.png
+         :width: 60%
+         :class: framed
+         :align: center
 
 .. container:: clearfix
 
    .. describe:: Image C
 
-   .. thumbnail:: _static/3111110000-c.png
-      :width: 60%
-      :class: framed
-      :align: right
+      .. thumbnail:: _static/3111110000-c.png
+         :width: 60%
+         :class: framed
+         :align: right
 
-|br|
 |br|
 
 .. tip::
