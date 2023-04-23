@@ -3,12 +3,14 @@
 
 .. list-table:: EWB Tabs
    :widths: 50 50
-   :header-rows: 1
+   :header-rows: 1,3
 
    * - Heading row 1, column 1
      - Heading row 1, column 2
    * - .. image:: _images/3111110000-a.png
      - .. image:: _images/3111110000-b.png
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
    * - .. image:: _images/3111110000-c.png
      - .. image:: _images/3111110000-a.png
 
@@ -23,31 +25,6 @@
      - .. thumbnail:: _images/3111110000-b.png
    * - .. thumbnail:: _images/3111110000-c.png
      - .. thumbnail:: _images/3111110000-a.png
-
-
-.. thumbnail:: _images/3111110000-a.png
-   :title: Explanation text for image 1
-   :show_caption: True
-   :width: 35%
-   :class: framed
-
-.. thumbnail:: _images/3111110000-b.png
-   :title: Explanation text for image 2
-   :show_caption: True
-   :width: 35%
-   :class: framed
-
-.. thumbnail:: _images/3111110000-c.png
-   :title: Explanation text for image 3
-   :show_caption: True
-   :width: 35%
-   :class: framed
-
-.. thumbnail:: _images/3111110000-a.png
-   :title: Explanation text for image 4
-   :show_caption: True
-   :width: 35%
-   :class: framed
 
 
 .. tip::

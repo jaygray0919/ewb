@@ -2,7 +2,6 @@
 .. image:: _static/onto-logo-text-blue-w325-h60.svg
    :align: left
    :width: 50%
-   :height: auto
    :alt: Ontomatica logo
 
 |br|
@@ -20,7 +19,6 @@ Excel Work Book Documentation
 .. image:: _static/docs-latest.svg
    :align: left
    :width: 20%
-   :height: auto
 
 
 .. sidebar:: Excel Resources
