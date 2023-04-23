@@ -44,6 +44,7 @@ Standard Thumbnail
    :class: framed
    :align: left
 
+|br|
 
 .. describe:: Image B
 
@@ -52,6 +53,7 @@ Standard Thumbnail
    :class: framed
    :align: center
 
+|br|
 
 .. describe:: Image C
 
@@ -60,6 +62,7 @@ Standard Thumbnail
    :class: framed
    :align: right
 
+|br|
 
 .. describe:: Image A
 
@@ -73,7 +76,6 @@ Standard Thumbnail clearfix + align
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: clearfix
-
    .. thumbnail:: _static/3111110000-a.png
       :width: 60%
       :class: framed
@@ -81,7 +83,6 @@ Standard Thumbnail clearfix + align
 
 
 .. container:: clearfix
-
    .. thumbnail:: _static/3111110000-b.png
       :width: 60%
       :class: framed
@@ -89,7 +90,6 @@ Standard Thumbnail clearfix + align
 
 
 .. container:: clearfix
-
    .. thumbnail:: _static/3111110000-c.png
       :width: 60%
       :class: framed
@@ -97,7 +97,6 @@ Standard Thumbnail clearfix + align
 
 
 .. container:: clearfix
-
    .. thumbnail:: _static/3111110000-a.png
       :width: 60%
       :class: framed
@@ -340,7 +339,7 @@ sphinx-collapse
 
 .. collapse:: A Different Label
     :class: custom-summary
-    :name: summary0
+    :name: summary-0
 
     Something else that might escape notice.
 
