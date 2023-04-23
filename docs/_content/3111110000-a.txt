@@ -20,7 +20,7 @@
 |ET3|
 
 .. thumbnail:: _static/3111110000-c.png
-   :scale: 50%
+   :width: 50%
    :align: center
 
 |br|
