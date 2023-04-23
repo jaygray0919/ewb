@@ -33,25 +33,7 @@ extensions = [
     'sphinx_tabs.tabs',
     'sphinx_copybutton',
     'sphinx_collapse',
-    'sphinx_preview',
     ]
-
-# sphinx_preview - currently fails
-preview_config = {
-    "selector": "div.body a",
-    "not_selector": "div.needs_head a, h1 a, h2 a",
-    "set_icon": True,
-    "icon_only": True,
-    "icon_click": False,
-    "icon": "  👁",
-    "width": 500,
-    "height": 400,
-    "offset": {
-        "left": 20,
-        "top": 20
-    },
-    "timeout": 500,
-}
 
 bibtex_bibfiles = [
     'reference-8-article-technology.bib',

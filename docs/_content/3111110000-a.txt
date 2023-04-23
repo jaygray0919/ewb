@@ -2,17 +2,6 @@
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
 
-Sphinx-Needs (fails)
-^^^^^^^^^^^^^^^^^^^^
-
-Using `Sphinx-Needs <https://sphinxcontrib-needs.readthedocs.io/en/latest/>`_.
-
-This is for `Sphinx <https://www.sphinx-doc.org>`_.
-
-Takes a `jQuery selector <https://learn.jquery.com/using-jquery-core/selecting-elements/>`_ to define which
-links shall be taken into account.
-
-
 List Table and ``thumbnail``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -21,13 +10,13 @@ List Table and ``thumbnail``
 
    * - Far far away, behind the word mountains, there live the blind texts.
      - .. thumbnail:: _static/3111110000-a.png
-          :width: 60%
+          :width: 70%
    * - They live at the coast of the Semantics, a large language ocean.
      - .. thumbnail:: _static/3111110000-b.png
-          :width: 60%
+          :width: 70%
    * - A small river named Duden supplies the necessary regelialia.
      - .. thumbnail:: _static/3111110000-c.png
-          :width: 60%
+          :width: 70%
 
 
 Thumbnail ``clearfix + align``
