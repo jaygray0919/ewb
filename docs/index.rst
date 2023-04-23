@@ -20,6 +20,7 @@ Excel Work Book Documentation
    :align: left
    :width: 10%
 
+|br|
 
 .. sidebar:: Excel Resources
 
@@ -80,6 +81,8 @@ Excel Work Book Documentation
    term-project.rst
    bibliography.rst
    glossary.rst
+
+|br|
 
 License
 ^^^^^^^

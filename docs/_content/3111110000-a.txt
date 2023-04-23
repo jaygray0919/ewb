@@ -10,8 +10,9 @@
      - .. image:: _images/3111110000-a.png
 
 
-.. list-table:: EWB Tabs _static
+.. list-table:: EWB Tabs _static + thumbnail
    :widths: 50 50
+   :class: framed
 
    * - .. thumbnail:: _static/3111110000-a.png
      - .. thumbnail:: _static/3111110000-b.png
