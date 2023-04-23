@@ -1,34 +1,35 @@
 .. note::
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
-.. image:: _static/3111110000-a.png
+.. list-table:: simple image grid
+   :class: borderless
+
+     - .. image:: _images/3111110000-a.png
+     - .. image:: _images/3111110000-b.png
+
+
+.. thumbnail:: _images/3111110000-a.png
    :title: Explanation text for image 1
    :show_caption: True
    :width: 35%
-   :group: group1
    :class: framed
 
-.. image:: _static/3111110000-b.png
+.. thumbnail:: _images/3111110000-b.png
    :title: Explanation text for image 2
    :show_caption: True
    :width: 35%
-   :group: group1
-   :align: right
    :class: framed
 
-.. image:: _static/3111110000-c.png
+.. thumbnail:: _images/3111110000-c.png
    :title: Explanation text for image 3
    :show_caption: True
    :width: 35%
-   :group: group1
    :class: framed
 
-.. image:: _static/3111110000-a.png
+.. thumbnail:: _images/3111110000-a.png
    :title: Explanation text for image 4
    :show_caption: True
    :width: 35%
-   :group: group1
-   :align: right
    :class: framed
 
 
