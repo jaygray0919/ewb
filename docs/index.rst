@@ -18,15 +18,7 @@ Excel Work Book Documentation
 
 .. image:: _static/docs-latest.svg
    :align: left
-   :width: 10%
-
-|br|
-
-.. sidebar:: Excel Resources
-
-   `Excel 1 <https://example.com>`_
-
-   `Excel 2 <https://example.com>`_
+   :width: 8%
 
 
 .. toctree::
