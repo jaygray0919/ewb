@@ -6,10 +6,9 @@ List Table
 
 .. list-table:: EWB Tabs ``thumbnail``
    :stub-columns: 1
-   :widths: 60%, 40%
    :align: center
 
-   * - stub col row 1
+   * - stub col row 1, stub col row 1
      - .. thumbnail:: _static/3111110000-a.png
           :width: 40%
    * - stub col row 2
