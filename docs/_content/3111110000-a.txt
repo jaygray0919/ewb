@@ -1,7 +1,7 @@
 .. note::
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
-.. list-table:: Title
+.. list-table:: EWB Tabs
    :widths: 50 50
    :header-rows: 1
 
@@ -9,8 +9,20 @@
      - Heading row 1, column 2
    * - .. image:: _images/3111110000-a.png
      - .. image:: _images/3111110000-b.png
-   * - Row 2, column 1
-     - Row 2, column 2
+   * - .. image:: _images/3111110000-c.png
+     - .. image:: _images/3111110000-a.png
+
+
+.. list-table:: EWB Tabs
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+   * - .. thumbnail:: _images/3111110000-a.png
+     - .. thumbnail:: _images/3111110000-b.png
+   * - .. thumbnail:: _images/3111110000-c.png
+     - .. thumbnail:: _images/3111110000-a.png
 
 
 .. thumbnail:: _images/3111110000-a.png
