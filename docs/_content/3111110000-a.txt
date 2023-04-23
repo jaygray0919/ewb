@@ -75,7 +75,7 @@ GraphViz
    :align: center
 
    digraph "sphinx-ext-graphviz" {
-      size="6,4";
+      size="9,6";
       rankdir="LR";
       graph [fontname="Verdana", fontsize="12"];
       node [fontname="Verdana", fontsize="12"];
@@ -141,8 +141,8 @@ Rubric
    2.3 Use a Validator!
 
 
-YouTube-1
-^^^^^^^^^
+YouTube-iFrame
+^^^^^^^^^^^^^^
 
 .. admonition:: YouTube
 
@@ -214,8 +214,8 @@ Tabs contentui
         asperiores repellat.
 
 
-Tabs sphinx_tabs
-^^^^^^^^^^^^^^^^
+sphinx-tabs
+^^^^^^^^^^^
 
 .. tabs::
 
@@ -248,7 +248,7 @@ Tabs sphinx_tabs
             Orbits Jupiter
 
 
-sphinx_collapse
+sphinx-collapse
 ^^^^^^^^^^^^^^^
 
 .. collapse:: Details
@@ -267,5 +267,12 @@ sphinx_collapse
     .. code-block:: python
 
         print("Not really")
+
+
+sphinx-preview
+^^^^^^^^^^^^^^
+
+   * FAILS
+   * revisit example
 
 .. include:: substitution.txt
