@@ -4,26 +4,17 @@
 |ET1|
 
 .. thumbnail:: _static/3111110000-a.png
-   :width: 50%
-   :align: center
-
-|br|
-
-|ET2|
+    :group: group1
 
 .. thumbnail:: _static/3111110000-b.png
-   :width: 50%
-   :align: center
-
-|br|
-
-|ET3|
+    :group: group1
 
 .. thumbnail:: _static/3111110000-c.png
-   :width: 50%
-   :align: center
+    :group: group1
 
-|br|
+.. thumbnail:: _static/3111110000-a.png
+    :group: group1
+
 
 .. tip::
    * Advice specific to the page.
