@@ -2,6 +2,17 @@
    * Each section opens with a sentence about using the page example. |br| In some cases there is a second sentence.
 
 
+Needs Example
+^^^^^^^^^^^^^
+
+Using `Sphinx-Needs <https://sphinxcontrib-needs.readthedocs.io/en/latest/>`_.
+
+This is for `Sphinx <https://www.sphinx-doc.org>`_.
+
+Takes a `jQuery selector <https://learn.jquery.com/using-jquery-core/selecting-elements/>`_ to define which
+links shall be taken into account.
+
+
 List Table and ``thumbnail``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
