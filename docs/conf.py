@@ -37,10 +37,10 @@ extensions = [
     ]
 
 #sphinxcontrib.images
-images_config = {
-    "override_image_directive": True,
+#images_config = {
+#    "override_image_directive": True,
 #    "default_image_width": "60%",
-}
+#}
 
 # sphinx_preview
 preview_config = {
@@ -106,7 +106,6 @@ today_fmt = '%d %B %Y'
 
 exclude_patterns = [
    '__notes',
-   '_images',
    '_build',
    '_ext',
    'link-generic.rst',

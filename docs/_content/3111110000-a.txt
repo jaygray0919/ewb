@@ -4,19 +4,19 @@
 List Table 1
 ^^^^^^^^^^^^
 
-.. list-table:: EWB Tabs _images
+.. list-table:: EWB Tabs ``image``
    :widths: 50 50
 
-   * - .. image:: _images/3111110000-a.png
-     - .. image:: _images/3111110000-b.png
-   * - .. image:: _images/3111110000-c.png
-     - .. image:: _images/3111110000-a.png
+   * - .. image:: _static/3111110000-a.png
+     - .. image:: _static/3111110000-b.png
+   * - .. image:: _static/3111110000-c.png
+     - .. image:: _static/3111110000-a.png
 
 
 List Table 2
 ^^^^^^^^^^^^
 
-.. list-table:: EWB Tabs _static + thumbnail
+.. list-table:: EWB Tabs ``thumbnail``
    :widths: 50 50
    :class: framed
 
@@ -36,25 +36,43 @@ List Table 2
 Standard Thumbnail
 ^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: _static/3111110000-a.png
-   :title: Title A
-   :class: framed
+.. container:: clearfix
 
+   .. thumbnail:: _static/3111110000-a.png
+      :title: Title A
+      :class: framed
+      :align: left
 
-.. thumbnail:: _static/3111110000-b.png
-   :title: Title B
-   :class: framed
+      This is description A
+   
+.. container:: clearfix
 
+   .. thumbnail:: _static/3111110000-b.png
+      :title: Title B
+      :class: framed
+      :align: center
 
-.. thumbnail:: _static/3111110000-c.png
-   :title: Title C
-   :class: framed
+      This is description B
+   
+   
+.. container:: clearfix
 
+   .. thumbnail:: _static/3111110000-c.png
+      :title: Title C
+      :class: framed
+      :align: right
 
-.. thumbnail:: _static/3111110000-a.png
-   :title: Title A
-   :class: framed
+      This is description C
+   
+   
+.. container:: clearfix
 
+   .. thumbnail:: _static/3111110000-a.png
+      :title: Title A
+      :class: framed
+      :align: center
+
+      This is description A
 
 .. tip::
    * Advice specific to the page.
