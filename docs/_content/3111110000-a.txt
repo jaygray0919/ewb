@@ -4,16 +4,20 @@
 |ET1|
 
 .. thumbnail:: _static/3111110000-a.png
-    :group: group1
+   :width: 30%
+   :group: group1
 
 .. thumbnail:: _static/3111110000-b.png
-    :group: group1
+   :width: 30%
+   :group: group1
 
 .. thumbnail:: _static/3111110000-c.png
-    :group: group1
+   :width: 30%
+   :group: group1
 
 .. thumbnail:: _static/3111110000-a.png
-    :group: group1
+   :width: 30%
+   :group: group1
 
 
 .. tip::
