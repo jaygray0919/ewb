@@ -16,18 +16,18 @@ links shall be taken into account.
 List Table and ``thumbnail``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. list-table:: EWB Tabs
+.. list-table::
    :stub-columns: 1
 
-   * - Far far away, behind the word mountains,|br|there live the blind texts.
+   * - Far far away, behind the word mountains, there live the blind texts.
      - .. thumbnail:: _static/3111110000-a.png
-          :width: 50%
-   * - They live at the coast of the Semantics,|br|a large language ocean.
+          :width: 60%
+   * - They live at the coast of the Semantics, a large language ocean.
      - .. thumbnail:: _static/3111110000-b.png
-          :width: 50%
+          :width: 60%
    * - A small river named Duden supplies the necessary regelialia.
      - .. thumbnail:: _static/3111110000-c.png
-          :width: 50%
+          :width: 60%
 
 
 Thumbnail ``clearfix + align``
