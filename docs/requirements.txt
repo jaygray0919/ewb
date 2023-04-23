@@ -7,3 +7,4 @@ sphinx-preview==0.1.1
 sphinx-tabs
 sphinx-copybutton
 sphinx_collapse
+sphinx-needs==1.2.2
