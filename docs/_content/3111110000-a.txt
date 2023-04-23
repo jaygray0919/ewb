@@ -39,19 +39,21 @@ Standard Thumbnail
 .. thumbnail:: _static/3111110000-a.png
    :title: Title A
    :class: framed
-|br|
+
+
 .. thumbnail:: _static/3111110000-b.png
    :title: Title B
    :class: framed
-|br|
+
+
 .. thumbnail:: _static/3111110000-c.png
    :title: Title C
    :class: framed
-|br|
+
+
 .. thumbnail:: _static/3111110000-a.png
    :title: Title A
    :class: framed
-|br|
 
 
 .. tip::
