@@ -1,6 +1,6 @@
 sphinx-rtd-theme
 sphinxcontrib-bibtex
-sphinxcontrib-contentui
+sphinxcontrib-contentui==0.2.5
 sphinx-tabs
 sphinx-copybutton
 sphinx_collapse
