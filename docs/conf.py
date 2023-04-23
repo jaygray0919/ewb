@@ -29,6 +29,7 @@ extensions = [
     'sphinxcontrib.bibtex',
     'sphinxcontrib.contentui',
     'sphinxcontrib.images',
+    'sphinxcontrib.needs',
     'sphinx.ext.graphviz',
     'sphinx_tabs.tabs',
     'sphinx_copybutton',
@@ -45,19 +46,18 @@ extensions = [
 # sphinx_preview
 preview_config = {
     "selector": "div.body a",
-    "not_selector": "div.needs_head a, h1 a, h2 a, h3 a, h4 a",
-    # "selector": "div.body a.reference.internal",
+    "not_selector": "div.needs_head a, h1 a, h2 a",
     "set_icon": True,
     "icon_only": True,
     "icon_click": False,
+    "icon": "  👁",
     "width": 500,
     "height": 400,
     "offset": {
-        "left": 30,
-        "top": 30
+        "left": 20,
+        "top": 20
     },
-    "icon": "  👁",
-    "timeout": 100,
+    "timeout": 500,
 }
 
 bibtex_bibfiles = [
