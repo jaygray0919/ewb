@@ -1,10 +1,10 @@
-sphinx==5.3.0
-sphinx_rtd_theme==1.1.1
-readthedocs-sphinx-search==0.1.1
+sphinx==6.0
+sphinx_rtd_theme==1.2.0
 sphinxcontrib-bibtex
 sphinxcontrib-contentui
+sphinxcontrib-jquery==4.1
+sphinxcontrib-images==0.9.4
 sphinx-tabs
 sphinx-copybutton
-sphinx_collapse
 sphinx-preview
-sphinxcontrib-images==0.9.4
+sphinx_collapse
