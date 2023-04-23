@@ -18,7 +18,7 @@ Excel Work Book Documentation
 
 .. image:: _static/docs-latest.svg
    :align: left
-   :width: 6%
+   :width: 7%
 
 
 .. toctree::
@@ -83,7 +83,7 @@ Copyright 2023 Ontomatica LLC. This work is licensed under a `Creative Commons A
 
 .. image:: _static/cc-icon.png
    :align: left
-   :width: 6%
+   :width: 7%
    :alt: Creative Commons License
 
 

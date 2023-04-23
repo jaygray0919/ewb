@@ -36,13 +36,7 @@ extensions = [
     'sphinx_preview',
     ]
 
-#sphinxcontrib.images
-#images_config = {
-#    "override_image_directive": True,
-#    "default_image_width": "60%",
-#}
-
-# sphinx_preview
+# sphinx_preview - currently fails
 preview_config = {
     "selector": "div.body a",
     "not_selector": "div.needs_head a, h1 a, h2 a",
