@@ -43,6 +43,7 @@ Standard Thumbnail
    :class: framed
    :align: left
 
+
 * This is description A
 
 
@@ -51,6 +52,7 @@ Standard Thumbnail
    :width: 60%
    :class: framed
    :align: center
+
 
 * This is description B
 
@@ -61,6 +63,7 @@ Standard Thumbnail
    :class: framed
    :align: right
 
+
 * This is description C
 
 
@@ -70,11 +73,12 @@ Standard Thumbnail
    :class: framed
    :align: center
 
+
 * This is description A
 
 
-Standard Thumbnail clearfix+align
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Standard Thumbnail clearfix + align
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: clearfix
 
@@ -83,7 +87,8 @@ Standard Thumbnail clearfix+align
       :width: 60%
       :class: framed
       :align: left
-
+|br|
+|br|
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-b.png
@@ -91,7 +96,8 @@ Standard Thumbnail clearfix+align
       :width: 60%
       :class: framed
       :align: center
-
+|br|
+|br|
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-c.png
@@ -99,7 +105,8 @@ Standard Thumbnail clearfix+align
       :width: 60%
       :class: framed
       :align: right
-
+|br|
+|br|
 .. container:: clearfix
 
    .. thumbnail:: _static/3111110000-a.png
@@ -107,8 +114,8 @@ Standard Thumbnail clearfix+align
       :width: 60%
       :class: framed
       :align: center
-
-
+|br|
+|br|
 .. tip::
    * Advice specific to the page.
 
