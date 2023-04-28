@@ -26,14 +26,29 @@ CURDIR = os.path.abspath(os.path.dirname(__file__))
 
 extensions = [
     'sphinx_rtd_theme',
+    'hoverxref.extension',
+    'sphinxemoji.sphinxemoji',
     'sphinxcontrib.bibtex',
     'sphinxcontrib.contentui',
     'sphinxcontrib.images',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
     'sphinx.ext.graphviz',
-    'sphinx_tabs.tabs',
-    'sphinx_copybutton',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.viewcode',
     'sphinx_collapse',
+    'sphinx_copybutton',
+    'sphinx_search.extension',
+    'sphinx_tabs.tabs',
     ]
+
+intersphinx_mapping = {
+    'spx1': ('https://spx1.readthedocs.io/en/latest/', None),
+    'rdf': ('https://rdfabout.readthedocs.io/en/latest/', None),
+}
+
+intersphinx_disabled_reftypes = ["*"]
 
 bibtex_bibfiles = [
     'reference-8-article-technology.bib',
